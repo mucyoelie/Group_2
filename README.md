@@ -29,7 +29,7 @@ The purpose of this project is to strengthen our teamwork, improve our problem-s
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-group/group-project.git
+git clone https://github.com/mucyoelie/Group_2.git
 press right click
 open with live server
 

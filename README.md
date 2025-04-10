@@ -26,7 +26,7 @@ _A brief description of the project, what it does, and its purpose._
 
 ```bash
 git clone https://github.com/your-group/group-project.git
-cd group-project
-npm install
-npm start
+press right click
+open with live server
+
 

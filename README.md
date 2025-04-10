@@ -11,7 +11,7 @@ _A brief description of the project, what it does, and its purpose._
 | Elie Joseph MUCYO - 2405001249     |https://github.com/mucyoelie   |
 | Delphine DUSINGIZIMANA - 2405000842    | https://github.com/delphine2405000842   |
 | Batamuriza Gift -  2401000934     | https://github.com/batamuriza123    |
-|  Bwiza Blandine - 2309000163    | [@username4](https://github.com/username4)    |
+|  Bwiza Blandine - 2309000163    | https://github.com/BwizaBlandine    |
 
 ---
 

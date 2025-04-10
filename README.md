@@ -17,10 +17,8 @@ _A brief description of the project, what it does, and its purpose._
 
 ## 🛠️ Technologies Used
 
-- React
-- HTML, CSS, JavaScript
-- Tailwind CSS / Bootstrap
-- Node.js, Express (if backend used)
+- HTML
+
 
 ---
 

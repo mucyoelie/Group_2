@@ -10,7 +10,7 @@ _A brief description of the project, what it does, and its purpose._
 |-------------------|-----------------------------------------------|
 | Elie Joseph MUCYO - 2405001249     |https://github.com/mucyoelie   |
 | Delphine DUSINGIZIMANA - 2405000842    | https://github.com/delphine2405000842   |
-| Member 3 Name     | [@username3](https://github.com/username3)    |
+| Batamuriza Gift -  2401000934     | [@username3](https://github.com/username3)    |
 | Member 4 Name     | [@username4](https://github.com/username4)    |
 
 ---

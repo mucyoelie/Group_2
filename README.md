@@ -22,6 +22,9 @@ The purpose of this project is to strengthen our teamwork, improve our problem-s
 ## 🛠️ Technologies Used
 
 - HTML
+- Github
+- Git
+- Visual Studio
 
 
 ---
